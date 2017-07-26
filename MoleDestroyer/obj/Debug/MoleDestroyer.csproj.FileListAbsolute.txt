@@ -1,0 +1,9 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\bin\Debug\MoleDestroyer.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\bin\Debug\MoleDestroyer.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\bin\Debug\MoleDestroyer.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\obj\Debug\MoleDestroyer.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\obj\Debug\MoleDestroyer.Form1.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\obj\Debug\MoleDestroyer.Properties.Resources.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\obj\Debug\MoleDestroyer.csproj.GenerateResource.Cache
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\obj\Debug\MoleDestroyer.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\MoleDestroyer\MoleDestroyer\obj\Debug\MoleDestroyer.pdb
